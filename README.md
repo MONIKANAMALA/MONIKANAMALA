@@ -22,7 +22,7 @@ Let's connect, collaborate, and turn ideas into reality! 🚀✨
 <h3 align="left">Languages and Tools:</h3>
 
 <img align = "left" alt="coding" width="200" src="https://github.com/MONIKANAMALA/MONIKANAMALA/assets/104424662/0bf6b1b4-a40d-4f91-83e5-e07517eb3a47"><br><br>
-![M](https://github.com/MONIKANAMALA/MONIKANAMALA/assets/104424662/0bf6b1b4-a40d-4f91-83e5-e07517eb3a47)
+
 
 
 
