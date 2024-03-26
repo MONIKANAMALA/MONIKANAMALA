@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">studying B.tech, with specialization artificial intelligence and Machine Learning👩‍🎓</h3>
-<img align = "right" alt="coding" width="400" src="https://www.kmteq.com/wp-content/uploads/2022/06/Artificial-Intelligence.png">
+<img align = "right" alt="coding" width="400" src="https://www.kmteq.com/wp-content/uploads/2022/06/Artificial-Intelligence.png"><br><br>
 <p>I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web applications using the MERN stack. Passionate about coding, I'm constantly exploring new algorithms and techniques in AI while honing my skills in full-stack development. </p>      
 
 🔭 **Currently working on:** Exploring deep learning techniques for image recognition projects.
