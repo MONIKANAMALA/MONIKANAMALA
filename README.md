@@ -13,7 +13,7 @@ I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web 
 💬 **Ask me about:** Anything related to AI, machine learning, or web development!
 
 ## 🔗 Connect With Me
-- Portfolio: [monikaportfolio.vercel.app](https://monikaportfolio.vercel.app/)
+- Portfolio: [monikaportfolio](https://monikaportfolio.vercel.app/)
 - LinkedIn: [NamalaMonika](https://www.linkedin.com/in/namalamonika/)
 
 Let's connect, collaborate, and turn ideas into reality! 🚀✨
