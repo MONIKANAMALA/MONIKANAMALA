@@ -21,7 +21,7 @@ Let's connect, collaborate, and turn ideas into reality! 🚀✨
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align = "left" alt="coding" width="200" src="https://www.shutterstock.com/shutterstock/photos/1138777484/display_1500/stock-vector-vector-icon-theme-of-deep-learning-and-machine-learning-in-the-illustration-the-brain-with-1138777484.jpg"><br><br>
+<img align = "left" alt="coding" width="200" src="https://www.shutterstock.com/shutterstock/photos/2289628657/display_1500/stock-vector-machine-learning-concept-with-icon-set-with-big-word-or-text-on-center-2289628657.jpg"><br><br>
 
 
 
