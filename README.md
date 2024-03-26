@@ -1,15 +1,19 @@
 ### Hi there 👋
 
-**MONIKANAMALA/MONIKANAMALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web applications using the MERN stack. Passionate about coding, I'm constantly exploring new algorithms and techniques in AI while honing my skills in full-stack development.
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Exploring deep learning techniques for image recognition projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 **Currently learning:** Advanced concepts in Computer Vision and front-end frameworks like React.js.
+
+👯 **Looking to collaborate on:** Exciting AI projects or innovative web applications.
+
+🤔 **Looking for help with:** Optimizing machine learning models for performance and scalability.
+
+💬 **Ask me about:** Anything related to AI, machine learning, or web development!
+
+📫 **How to reach me:** Connect with me on https://www.linkedin.com/in/namalamonika/.
+
+
+
 
