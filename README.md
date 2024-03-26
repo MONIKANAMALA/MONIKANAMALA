@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">studying B.tech, with specialization artificial intelligence and Machine Learning👩‍🎓</h3>
-
-I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web applications using the MERN stack. Passionate about coding, I'm constantly exploring new algorithms and techniques in AI while honing my skills in full-stack development.       
+<img align = "right" alt="coding" width="400" src="![image](https://github.com/MONIKANAMALA/MONIKANAMALA/assets/104424662/79e6ea3c-65f3-4295-9a5a-188112412d8f)
+">
+<p>I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web applications using the MERN stack. Passionate about coding, I'm constantly exploring new algorithms and techniques in AI while honing my skills in full-stack development. </p>      
 
 🔭 **Currently working on:** Exploring deep learning techniques for image recognition projects.
 
