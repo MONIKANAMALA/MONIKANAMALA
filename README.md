@@ -22,11 +22,11 @@ I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web 
 Let's connect, collaborate, and turn ideas into reality! 🚀✨
 
 ## 📚 Expertise
-# Machine Learning:
+## Machine Learning:
 - Languages: Python
 - Libraries: scikit-learn, TensorFlow, PyTorch
 - Techniques: Regression, Classification, Clustering, Natural Language Processing (NLP), Computer Vision
-# Web Development:
+## Web Development:
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js
 - Databases: MongoDB, SQL
