@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MonikaNamala</h1>
-<h3 align="center">studying B.tech, pursing cse with specialization artificial intelligence and Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm Monika</h1>
+<h3 align="center">studying B.tech, with specialization artificial intelligence and Machine Learning👩‍🎓</h3>
 
 I'm an AI and Machine Learning enthusiast with a knack for crafting dynamic web applications using the MERN stack. Passionate about coding, I'm constantly exploring new algorithms and techniques in AI while honing my skills in full-stack development.       
 
